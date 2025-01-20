@@ -37,7 +37,7 @@ app.get('/bacheca', (req, res) => {
         {
             title: "Express.js: Creare un'API REST in pochi passi",
             content: "Impara a usare Express.js per creare API RESTful e gestire le richieste HTTP in modo efficiente.",
-            image:  `http://localhost:${port}/img/rorta_paesana.jpeg`,
+            image:  `http://localhost:${port}/img/torta_paesana.jpeg`,
             tags: ["Express.js", "backend", "API", "Node.js"]
         }
     ])
